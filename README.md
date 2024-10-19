@@ -1,0 +1,1 @@
+# DollarBTC Auth
